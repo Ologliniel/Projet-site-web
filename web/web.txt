@@ -1,0 +1,11 @@
+contient tous les documents affilié au projet concernant le web:
+
+	-images
+		design site
+		objets à vendre
+	-pages:
+		html
+		css
+		php
+		javascript
+	-banque de données
