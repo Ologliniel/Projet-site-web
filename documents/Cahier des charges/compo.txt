@@ -1,0 +1,9 @@
+Doit contenir :
+
+		Wirefame
+		Diagramme uml
+			use case
+			sequence
+			class
+		ficher texte
+		Banque de données

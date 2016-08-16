@@ -1,0 +1,18 @@
+contient tous les documents affilié au projet hors web : 
+
+	-cahier des charges :
+		Warfame
+		Diagramme uml
+			use case
+			sequence
+			class
+		ficher texte
+		Banque de données
+	-Présentation :
+		power point ?
+		images
+	-Doc Dev :
+		cours
+		algorigramme?
+	-Doc utilisateur:
+		règles/consignes utilisation ?
